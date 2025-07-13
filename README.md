@@ -30,5 +30,6 @@ This task provided hands-on experience in digital filter design, HDL coding, and
 
 ##OUTPUT
 
+![Image](https://github.com/user-attachments/assets/2c56da78-b753-4341-86a2-c8e0355a56d6)
 
 
